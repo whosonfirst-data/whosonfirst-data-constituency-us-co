@@ -9,7 +9,7 @@
     "geom:bbox":"-104.94253,38.51944,-104.58222,38.781741",
     "geom:latitude":38.63694,
     "geom:longitude":-104.789957,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":651202078.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 21",
     "uscensus:sldlst":"021",
     "uscensus:statefp":"08",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688603
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486088,
     "wof:geomhash":"549bea84cb907b83afe02901d436b237",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
     "wof:id":1108762059,
     "wof:lastmodified":1481486088,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688603,
     "wof:repo":"whosonfirst-data-constituency-us-co",
     "wof:superseded_by":[],
     "wof:supersedes":[],
